@@ -1,5 +1,7 @@
 # Proiect_IS2
-Acesta este proiectul la materia IS2 al lui Blanariu Flavius și al lui Ion Darius.
+Acesta este proiectul la materia IS2 al lui Blanariu Flavius, al lui Ion Darius și al lui Năstase Mihnea.
+
+Link către Github repo: https://github.com/flaviusblanariu/Proiect_IS2 
 
 5 User Stories:
 
